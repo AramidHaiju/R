@@ -8,4 +8,4 @@ for (i in 1:N)
     counter <- counter +1
   }
 anwser <- counter/N
-answer
+anwser
